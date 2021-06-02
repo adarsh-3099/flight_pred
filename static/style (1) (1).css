@@ -1,0 +1,107 @@
+*{
+    @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+}
+.nav-logo img{
+    width: 135px;
+}
+.container-fluid{
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(background.jpg);
+    background-position: center;
+    background-size: cover;
+    overflow-x: hidden;
+    position: relative;
+
+}
+.conflu{
+    margin-left: 35%;
+    color: azure;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+.bb1{
+    color: azure;
+}
+.con1{
+    margin-top: 150px;
+}
+.carousel-inner{
+    height: 300px;
+    width: 500px;
+    margin-left: 50px;
+}
+.navbar{
+    width: 100%;
+    left: 0;
+    height: 9%;
+}
+.navbar-header{
+    width: 100%;
+}
+.navbar-brand{
+    color: azure;
+}
+.heading{
+    text-align: center;
+}
+
+.card {
+    background-color: rgb(5, 52, 71);
+    color: rgb(5, 59, 83);
+    height: 120px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 20px;
+    width: 410px;
+    border-radius: 5px;
+}
+.card-title{
+    color: azure;
+}
+.card1{
+    margin-left: 45%;
+    margin-top: 78px;
+}
+.card2{
+    margin-left:45%;
+}
+.card3{
+    margin-left: 45%;
+}
+.btn-default {
+    color: #333;
+    background-color:rgb(5, 59, 83);
+    color: white;
+    padding: 10px;
+    border-color: white;
+}
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: grabbing;
+    background-image: none;
+    border-radius: 1px;
+    padding: 8px 14px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.body{
+  text-align: center;
+}
+
+.pred{
+  text-align: center;
+  color: white;
+}
